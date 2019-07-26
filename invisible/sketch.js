@@ -1,6 +1,6 @@
 var video;
 var squarein, squareout;
-var img, img1, img2, img3, flashlight, got,book, bgd, tube, pipe, bgm, b51;
+var img, img1, img2, img3, flashlight, got,book, bgm, b51;
 var clickSound = [];
 var mouthlight = false;
 
@@ -459,7 +459,7 @@ if (p11 == true&& on3 == true){
 function message() {
 
        fill(0);
-      
+
   var offset3 = random(9);
   var i = width / 2 - 300;
   var j = height / 2 - 200;
